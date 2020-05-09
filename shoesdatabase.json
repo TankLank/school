@@ -1,5 +1,6 @@
 [
    {
+      "ID" : "A1",
       "BRAND":"Nike",
       "PRODNAME":"Nike Air Force 1 LV8",
       "GRAPHNAME":"nikeairforce1.png",
@@ -10,6 +11,7 @@
       "DESC":"Never mistaken, the Nike Air Force 1 LV8 is the hardwood classic that redefined basketball shoes and sneaker culture forever. Suede details atop synthetic leather on the upper deliver the iconic style that landed it at the pinnacle of street, sport and culture for decades."
    },
    {
+      "ID" : "A2",
       "BRAND":"Nike",
       "PRODNAME":"Nike SB Adversary",
       "GRAPHNAME":"nikesb.png",
@@ -20,6 +22,7 @@
       "DESC":"The Nike SB Adversary takes you back to the basics. Suede and textile create a classic look that's inspired by the 1982 Nike Adversary, while a combination of traditional lacing and ghillie loops lets you dial in the perfect fit."
    },
    {
+      "ID" : "A3",
       "BRAND":"Nike",
       "PRODNAME":"Nike React Infinity Run Flyknit",
       "GRAPHNAME":"nikereact.png",
@@ -30,6 +33,7 @@
       "DESC":"The Nike React Infinity Run Flyknit is designed to keep you on the run. More foam and improved upper details provide a secure and cushioned feel. Lace up and feel the potential as you hit the road."
    },
    {
+      "ID" : "A4",
       "BRAND":"Nike",
       "PRODNAME":"Nike SB Zoom Stefan Janoski RM",
       "GRAPHNAME":"nikesbzoom.png",
@@ -40,6 +44,7 @@
       "DESC":"The Nike SB Zoom Stefan Janoski RM pairs a minimal look with a modern fit. It has been updated with a new, plush sockliner and a flexible outsole for better boardfeel right out of the box."
    },
    {
+      "ID" : "A5",
       "BRAND":"Nike",
       "PRODNAME":"LeBron 17",
       "GRAPHNAME":"nikelebron.png",
@@ -50,6 +55,7 @@
       "DESC":"The LeBron 17 harnesses LeBron's strength and speed with containment and support for all-court domination. It features a lightweight mix of knit and heat-moulded yarns that gives each one a durable look and feel. Combined cushioning provides LeBron with the impact support and responsive energy return he needs to power through the long season."
    },
    {
+      "ID" : "A6",
       "BRAND":"Adidas",
       "PRODNAME":"Ultraboost Shoes",
       "GRAPHNAME":"adidasultraboost.jpg",
@@ -60,6 +66,7 @@
       "DESC":"Elevate your running experience. These updated adidas Ultraboost shoes deliver heel-to-toe responsive cushioning for the highest level of energy return as you run. With an almost entirely seamless upper to eliminate distractions, you're free to focus on piling up the miles."
    },
    {
+      "ID" : "A7",
       "BRAND":"Adidas",
       "PRODNAME":"Stan Smith Shoes",
       "GRAPHNAME":"adidasstansmith.jpg",
@@ -70,6 +77,7 @@
       "DESC":"Roll with the classic. Back in the day, Stan Smith won big on the tennis court. Slide into the adidas shoe worthy of his name and you'll win big on the streets. Top to bottom, these shoes capture the essential style of the 1971 original, with a minimalist leather build and clean trim."
    },
    {
+      "ID" : "A8",
       "BRAND":"Adidas",
       "PRODNAME":"NMD_R1 Shoes",
       "GRAPHNAME":"adidasnmd.jpg",
@@ -80,6 +88,7 @@
       "DESC":"Run with it. These adidas NMD_R1 Shoes are a little technical and a lot street smart. Their midsole plugs flash back to the '80s, but the knit upper, full-length cushioned midsole and EVA inserts are 100 percent fashion forward."
    },
    {
+      "ID" : "A9",
       "BRAND":"Adidas",
       "PRODNAME":"Microbounce T1 Shoes",
       "GRAPHNAME":"adidasmicro.jpg",
@@ -90,6 +99,7 @@
       "DESC":"New millennium, no limits. The early '00s saw an explosion of creative new adidas technologies. Case in point? Microbounce. These shoes bring back the innovative midsole system designed for an ultra-cushioned ride. A glossy patent leather mud guard adds extra shine to the layered midsole."
    },
    {
+      "ID" : "A10",
       "BRAND":"Adidas",
       "PRODNAME":"AlphaEdge 4D Shoes",
       "GRAPHNAME":"adidasalphaedge.jpg",
@@ -100,6 +110,7 @@
       "DESC":"Add an edge to your game with the new AlphaEdge 4D. Designed for peak performance during your cross-training workouts, this model features a 3D-printed midsole. The lattice structure was developed using years of athlete data to deliver precisely-tuned support and cushioning right where you need it. The process is called digital light synthesis - light creates the shape of the sole, heat sets it. This model features iridescent panels inspired by the galaxy. Our formula for the future."
    },
    {
+      "ID" : "A11",
       "BRAND":"Reebok",
       "PRODNAME":"Classic Leather Men's Shoes",
       "GRAPHNAME":"reebookclassic.jpg",
@@ -110,6 +121,7 @@
       "DESC":"Never go out of style. Soft garment leather upper gives you superior comfort. Die-cut EVA midsole provides lightweight cushioning. Molded PU sockliner adds comfort and durability."
    },
    {
+      "ID" : "A12",
       "BRAND":"Reebok",
       "PRODNAME":"Reebok Legacy Lifter Flexweave® Men's Shoes",
       "GRAPHNAME":"reeboklegacy.jpg",
@@ -120,6 +132,7 @@
       "DESC":"Designed to provide a stable base on the weightlifting platform. These men's shoes have a Flexweave® upper with double straps for a locked-down fit. The raised heel allows for an optimal squat position to help you max out your lifts."
    },
    {
+      "ID" : "A13",
       "BRAND":"Reebok",
       "PRODNAME":"Forever Floatride Energy 2 Men's Running Shoes",
       "GRAPHNAME":"reebokforever.jpg",
@@ -130,6 +143,7 @@
       "DESC":"These men's neutral running shoes offer cushioned comfort without sacrificing flexibility and ground feel. They keep feet light with a breathable mesh upper. The Floatride Energy Foam gives the shoes a soft step-in feel and ultra-smooth ride."
    },
    {
+      "ID" : "A14",
       "BRAND":"Reebok",
       "PRODNAME":"VB Bolton Leather Shoes",
       "GRAPHNAME":"reebokvb.jpg",
@@ -140,6 +154,7 @@
       "DESC":"An update to the Reebok and Victoria Beckham collaboration. These Bolton shoes get a premium leather upper and a traditional tongue and laces. They have a chunky, layered look and lots of cushioning."
    },
    {
+      "ID" : "A15",
       "BRAND":"Reebok",
       "PRODNAME":"Reebok Royal Complete Clean 2.0 Shoes",
       "GRAPHNAME":"reebokroyal.jpg",
