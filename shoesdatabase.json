@@ -1,0 +1,152 @@
+[
+{
+BRAND: "Nike",
+PRODNAME: "Nike Air Force 1 LV8",
+GRAPHNAME: "nikeairforce1.png",
+COST: 145,
+MSRP: 80,
+QTYONHAND: 23,
+QTYONBACKORDER: 34,
+DESC: "Never mistaken, the Nike Air Force 1 LV8 is the hardwood classic that redefined basketball shoes and sneaker culture forever. Suede details atop synthetic leather on the upper deliver the iconic style that landed it at the pinnacle of street, sport and culture for decades."
+},
+{
+BRAND: "Nike",
+PRODNAME: "Nike SB Adversary",
+GRAPHNAME: "nikesb.png",
+COST: 105,
+MSRP: 65,
+QTYONHAND: 50,
+QTYONBACKORDER: 23,
+DESC: "The Nike SB Adversary takes you back to the basics. Suede and textile create a classic look that's inspired by the 1982 Nike Adversary, while a combination of traditional lacing and ghillie loops lets you dial in the perfect fit."
+},
+{
+BRAND: "Nike",
+PRODNAME: "Nike React Infinity Run Flyknit",
+GRAPHNAME: "nikereact.png",
+COST: 215,
+MSRP: 100,
+QTYONHAND: 203,
+QTYONBACKORDER: 97,
+DESC: "The Nike React Infinity Run Flyknit is designed to keep you on the run. More foam and improved upper details provide a secure and cushioned feel. Lace up and feel the potential as you hit the road."
+},
+{
+BRAND: "Nike",
+PRODNAME: "Nike SB Zoom Stefan Janoski RM",
+GRAPHNAME: "nikesbzoom.png",
+COST: "115",
+MSRP: "70",
+QTYONHAND: "21",
+QTYONBACKORDER: "0",
+DESC: "The Nike SB Zoom Stefan Janoski RM pairs a minimal look with a modern fit. It has been updated with a new, plush sockliner and a flexible outsole for better boardfeel right out of the box."
+},
+{
+BRAND: "Nike",
+PRODNAME: "LeBron 17",
+GRAPHNAME: "nikelebron.png",
+COST: "300",
+MSRP: "170",
+QTYONHAND: "0",
+QTYONBACKORDER: "28",
+DESC: "The LeBron 17 harnesses LeBron's strength and speed with containment and support for all-court domination. It features a lightweight mix of knit and heat-moulded yarns that gives each one a durable look and feel. Combined cushioning provides LeBron with the impact support and responsive energy return he needs to power through the long season."
+},
+{
+BRAND: "Adidas",
+PRODNAME: "Ultraboost Shoes",
+GRAPHNAME: "adidasultraboost.jpg",
+COST: "250",
+MSRP: "98",
+QTYONHAND: "0",
+QTYONBACKORDER: "21",
+DESC: "Elevate your running experience. These updated adidas Ultraboost shoes deliver heel-to-toe responsive cushioning for the highest level of energy return as you run. With an almost entirely seamless upper to eliminate distractions, you're free to focus on piling up the miles."
+},
+{
+BRAND: "Adidas",
+PRODNAME: "Stan Smith Shoes",
+GRAPHNAME: "adidasstansmith.jpg",
+COST: "110",
+MSRP: "52",
+QTYONHAND: "227",
+QTYONBACKORDER: "0",
+DESC: "Roll with the classic. Back in the day, Stan Smith won big on the tennis court. Slide into the adidas shoe worthy of his name and you'll win big on the streets. Top to bottom, these shoes capture the essential style of the 1971 original, with a minimalist leather build and clean trim."
+},
+{
+BRAND: "Adidas",
+PRODNAME: "NMD_R1 Shoes",
+GRAPHNAME: "adidasnmd.jpg",
+COST: "170",
+MSRP: "98",
+QTYONHAND: "68",
+QTYONBACKORDER: "0",
+DESC: "Run with it. These adidas NMD_R1 Shoes are a little technical and a lot street smart. Their midsole plugs flash back to the '80s, but the knit upper, full-length cushioned midsole and EVA inserts are 100 percent fashion forward."
+},
+{
+BRAND: "Adidas",
+PRODNAME: "Microbounce T1 Shoes",
+GRAPHNAME: "adidasmicro.jpg",
+COST: "220",
+MSRP: "100",
+QTYONHAND: "0",
+QTYONBACKORDER: "23",
+DESC: "New millennium, no limits. The early '00s saw an explosion of creative new adidas technologies. Case in point? Microbounce. These shoes bring back the innovative midsole system designed for an ultra-cushioned ride. A glossy patent leather mud guard adds extra shine to the layered midsole."
+},
+{
+BRAND: "Adidas",
+PRODNAME: "AlphaEdge 4D Shoes",
+GRAPHNAME: "adidasalphaedge.jpg",
+COST: "275",
+MSRP: "167",
+QTYONHAND: "12",
+QTYONBACKORDER: "0",
+DESC: "Add an edge to your game with the new AlphaEdge 4D. Designed for peak performance during your cross-training workouts, this model features a 3D-printed midsole. The lattice structure was developed using years of athlete data to deliver precisely-tuned support and cushioning right where you need it. The process is called digital light synthesis - light creates the shape of the sole, heat sets it. This model features iridescent panels inspired by the galaxy. Our formula for the future."
+},
+{
+BRAND: "Reebok",
+PRODNAME: "Classic Leather Men's Shoes",
+GRAPHNAME: "reebookclassic.jpg",
+COST: "100",
+MSRP: "38",
+QTYONHAND: "121",
+QTYONBACKORDER: "0",
+DESC: "Never go out of style. Soft garment leather upper gives you superior comfort. Die-cut EVA midsole provides lightweight cushioning. Molded PU sockliner adds comfort and durability."
+},
+{
+BRAND: "Reebok",
+PRODNAME: "Reebok Legacy Lifter Flexweave® Men's Shoes",
+GRAPHNAME: "reeboklegacy.jpg",
+COST: "200",
+MSRP: "120",
+QTYONHAND: "0",
+QTYONBACKORDER: "12",
+DESC: "Designed to provide a stable base on the weightlifting platform. These men's shoes have a Flexweave® upper with double straps for a locked-down fit. The raised heel allows for an optimal squat position to help you max out your lifts."
+},
+{
+BRAND: "Reebok",
+PRODNAME: "Forever Floatride Energy 2 Men's Running Shoes",
+GRAPHNAME: "reebokforever.jpg",
+COST: "130",
+MSRP: "65",
+QTYONHAND: "23",
+QTYONBACKORDER: "0",
+DESC: "These men's neutral running shoes offer cushioned comfort without sacrificing flexibility and ground feel. They keep feet light with a breathable mesh upper. The Floatride Energy Foam gives the shoes a soft step-in feel and ultra-smooth ride."
+},
+{
+BRAND: "Reebok",
+PRODNAME: "VB Bolton Leather Shoes",
+GRAPHNAME: "reebokvb.jpg",
+COST: "330",
+MSRP: "180",
+QTYONHAND: "0",
+QTYONBACKORDER: "4",
+DESC: "An update to the Reebok and Victoria Beckham collaboration. These Bolton shoes get a premium leather upper and a traditional tongue and laces. They have a chunky, layered look and lots of cushioning."
+},
+{
+BRAND: "Reebok",
+PRODNAME: "Reebok Royal Complete Clean 2.0 Shoes",
+GRAPHNAME: "reebokroyal.jpg",
+COST: "80",
+MSRP: "29",
+QTYONHAND: "110",
+QTYONBACKORDER: "0",
+DESC: "Clean, tennis-inspired style. These throwback shoes have a neutral colour upper for a minimalist look. Contrast colour pops on the logos and heel tab to create an understated sporty vibe. Stitching gives them a sleek, nearly seamless design. The upper is made of soft synthetic leather."
+}
+]
